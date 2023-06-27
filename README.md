@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1Kj1Jq4_5SQuQUBcjgJXIWyXdHsfg6GRX/view?usp=sharing)](https://codegrills.in)
+[![MasterHead](https://github.com/Lucky19112002/Resume/blob/main/Banner.png)](https://codegrills.in)
 
 <h1 align="center">Hi 👋, I'm Lucky Pathan</h1>
 <h3 align="center">A Software developer from India</h3>
