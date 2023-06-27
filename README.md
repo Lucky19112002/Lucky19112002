@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFnCO3Cvbs/_bJcBLCAFTG5Pn2FBYVu9g/edit?utm_content=DAFnCO3Cvbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://codegrills.in)
+[![MasterHead](https://www.canva.com/design/DAFnCO3Cvbs/-7XK27v4lTaDu-T4nuFdpA/view?utm_content=DAFnCO3Cvbs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://codegrills.in)
 
 <h1 align="center">Hi 👋, I'm Lucky Pathan</h1>
 <h3 align="center">A Software developer from India</h3>
