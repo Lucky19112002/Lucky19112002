@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucky Pathan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky19112002&label=Profile%20views&color=0e75b6&style=flat" alt="lucky19112002" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucky19112002" alt="lucky19112002" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/luckypa45221397" target="blank"><img src="https://img.shields.io/twitter/follow/luckypa45221397?logo=twitter&style=for-the-badge" alt="luckypa45221397" /></a> </p>
 
 - 🔭 I’m currently working on **Shell Share**
 
@@ -19,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/luckypa45221397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luckypa45221397" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucky-pathan-a15b18182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucky-pathan-a15b18182" height="30" width="40" /></a>
 <a href="https://instagram.com/lucky_pathan_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucky_pathan_19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lckpathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lckpathan" height="30" width="40" /></a>
@@ -31,5 +36,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucky19112002&show_icons=true&locale=en&layout=compact" alt="lucky19112002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky19112002&show_icons=true&locale=en" alt="lucky19112002" /></p>
-<p><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Luckypacher.png" alt="TryHackMe"></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucky19112002&" alt="lucky19112002" /></p>
+
+<p><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Luckypacher.png" alt="TryHackMe"></p>
+
