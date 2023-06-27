@@ -1,6 +1,9 @@
-[![MasterHead](https://github.com/Lucky19112002/Resume/blob/main/Banner.png)](https://codegrills.in)
+<!--[![MasterHead](https://github.com/Lucky19112002/Resume/blob/main/Banner.png)] -->
+<p align="center">
+  <img src="https://github.com/Lucky19112002/Resume/raw/main/Banner.png" width="100%" alt="Header Image">
+</p>
 
-<h1 align="center">Hi 👋, I'm Lucky Pathan</h1>
+<h1 align="center">I'm Lucky Pathan</h1>
 <h3 align="center">A Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif">
 
@@ -10,19 +13,19 @@
 
 <p align="left"> <a href="https://twitter.com/luckypa45221397" target="blank"><img src="https://img.shields.io/twitter/follow/luckypa45221397?logo=twitter&style=for-the-badge" alt="luckypa45221397" /></a> </p>
 
-- 🔭 I’m currently working on **Shell Share**
+- 🔭 I’m currently student of **Parul Institute of Engineering and Technology**
 
 - 🌱 I’m currently learning **BTech. CSE Degree [4 Year]**
 
 - 🔭 I’m currently working on a side project **Expense Track Chatbot**
 
-- 💬 Ask me about **Cyber Security**
+- 💬 Ask me about **Cyber Security, Ethical Hacking, Bug Bounty **
 
-- 📫 How to reach me **lckpathan@gmail.cm**
+- 📫 How to reach me **lckpathan@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Lucky19112002/Resume/blob/main/Resume.pdf](https://github.com/Lucky19112002/Resume/blob/main/Resume.pdf)
 
-- ⚡ Fun fact **I am a real quick learner**
+- ⚡ Fun fact **I am really a quick learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
