@@ -45,6 +45,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky19112002&show_icons=true&locale=en" alt="lucky19112002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucky19112002&" alt="lucky19112002" /></p>
-<p><a href="https://tryhackme.com/Luckypacher/badges/metasploitable" target="_blank"><img align="right" src="https://assets.tryhackme.com/room-badges/55a26820962b86d2c55dcd15e9219124.png" alt="TryHackMe" width="200"></a></p>
+<div style="display: flex; justify-content: space-between;">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucky19112002&" alt="lucky19112002" /></p>
+  
+  <p><a href="https://tryhackme.com/Luckypacher/badges/metasploitable" target="_blank"><img align="right" src="https://assets.tryhackme.com/room-badges/55a26820962b86d2c55dcd15e9219124.png" alt="TryHackMe" width="200"></a></p>
+</div>
 
