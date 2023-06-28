@@ -3,8 +3,7 @@
   <img src="https://github.com/Lucky19112002/Resume/raw/main/Banner.png" width="100%" alt="Header Image">
 </p>
 
-<h1 align="center">I'm Lucky Pathan</h1>
-<h3 align="center">A Software developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif">
 
 
@@ -13,19 +12,30 @@
 
 <p align="left"> <a href="https://twitter.com/luckypa45221397" target="blank"><img src="https://img.shields.io/twitter/follow/luckypa45221397?logo=twitter&style=for-the-badge" alt="luckypa45221397" /></a> </p>
 
-- 🔭 I’m currently student of **Parul Institute of Engineering and Technology**
+## 👨‍💻 Lucky Pathan | Ethical Hacker | Bug Bounty Hunter
 
-- 🌱 I’m currently learning **BTech. CSE Degree [4 Year]**
+🔒 Hacking the world one vulnerability at a time!
 
-- 🔭 I’m currently working on a side project **Expense Track Chatbot**
+🌐 Cyber Security | Penetration Testing | Web Exploitation
 
-- 💬 Ask me about **Cyber Security, Ethical Hacking, Bug Bounty**
+🛡️ Certified Ethical Hacker (CEH) | Offensive Security Certified Professional (OSCP)
 
-- 📫 How to reach me **lckpathan@gmail.com**
+💻 Student of Parul Institute of Engineering and Technology
 
-- 📄 Know about my experiences [https://github.com/Lucky19112002/Resume/blob/main/Resume.pdf](https://github.com/Lucky19112002/Resume/blob/main/Resume.pdf)
+🔭 Currently working on enhancing my hacking skills and securing digital environments
 
-- ⚡ Fun fact **I am really a quick learner**
+🌱 Constantly learning and exploring new techniques to stay ahead in the ever-evolving world of cybersecurity
+
+🔐 Passionate about identifying vulnerabilities and helping organizations fortify their defenses
+
+🌐 Connect with me to collaborate on cybersecurity projects or discuss the latest hacking trends
+
+📫 Reach me at lckpathan@gmail.com
+
+🌐 Check out my latest  achievements on my [TryHackMe](https://tryhackme.com/p/Luckypacher) profile!
+
+⚡ "There's no patch for human stupidity." - Unknown
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
