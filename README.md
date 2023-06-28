@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://github.com/Lucky19112002/Resume/blob/main/Banner.png)] -->
 <p align="center">
-  <img src="https://github.com/Lucky19112002/Resume/raw/main/Banner.png" width="100%" alt="Header Image">
+  <img src="https://github.com/Lucky19112002/Resume/blob/main/Banner.png?raw=true" width="100%" alt="Header Image">
 </p>
 
 
