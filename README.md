@@ -56,8 +56,8 @@
 
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucky19112002" alt="lucky19112002" />
-
-<a href="https://tryhackme.com/Luckypacher/badges/metasploitable" target="_blank"><img align="right" src="https://assets.tryhackme.com/room-badges/55a26820962b86d2c55dcd15e9219124.png" alt="TryHackMe" width="325"></a>
+<!--
+<a href="https://tryhackme.com/Luckypacher/badges/metasploitable" target="_blank"><img align="right" src="https://assets.tryhackme.com/room-badges/55a26820962b86d2c55dcd15e9219124.png" alt="TryHackMe" width="325"></a>-->
 
 
 
