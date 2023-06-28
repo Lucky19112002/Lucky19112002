@@ -10,8 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky19112002&label=Profile%20views&color=0e75b6&style=flat" alt="lucky19112002" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/luckypa45221397" target="blank"><img src="https://img.shields.io/twitter/follow/luckypa45221397?logo=twitter&style=for-the-badge" alt="luckypa45221397" /></a> </p>
-
 ## 👨‍💻 Lucky Pathan | Ethical Hacker | Bug Bounty Hunter
 
 🔒 Hacking the world one vulnerability at a time!
@@ -21,7 +19,7 @@
 <!--🛡️ Certified Ethical Hacker (CEH) | Offensive Security Certified Professional (OSCP)-->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif">
 
-💻 Student of Parul Institute of Engineering and Technology
+💻 Student of **Parul Institute of Engineering and Technology**
 
 🔭 Currently working on enhancing my hacking skills and securing digital environments
 
@@ -31,7 +29,7 @@
 
 🌐 Connect with me to collaborate on cybersecurity projects or discuss the latest hacking trends
 
-📫 Reach me at lckpathan@gmail.com
+📫 Reach me at **lckpathan@gmail.com**
 
 🌐 Check out my latest  achievements on my [TryHackMe](https://tryhackme.com/p/Luckypacher) profile!
 
