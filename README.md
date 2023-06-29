@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://github.com/Lucky19112002/Resume/blob/main/Banner.png)] -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVjMDIzajg4YmJheG1wdTU5M3B0dGo0ZXN1YjU0ZmFqdDZuY2c5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rV2cYoJ612MUbjbGXG/giphy.gif" width="100%" alt="Header GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVjMDIzajg4YmJheG1wdTU5M3B0dGo0ZXN1YjU0ZmFqdDZuY2c5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rV2cYoJ612MUbjbGXG/giphy.gif"  alt="Header GIF">
 </p>
 
 
